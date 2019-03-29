@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
